@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="DopPDF/DopPDF.csproj" Id="e57f5c4e-2a36-4785-adc4-6723e4f182ff" />
   <Project Path="DZ8/DZ8.csproj" />
   <Project Path="PDF8/PDF8.csproj" Id="e43ed279-3259-491d-8039-ba6283b13dbb" />
 </Solution>
